@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "summary": "Channels that allow modular and self-contained view code",
+    "repository": "https://github.com/evancz/local-channel.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "LocalChannel"
+    ],
+    "dependencies": {
+        "elm-lang/core": "1.0.0 <= v < 2.0.0"
+    }
+}
