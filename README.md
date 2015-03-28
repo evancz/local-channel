@@ -2,7 +2,7 @@
 
 The general recommendation for making Elm applications modular is to write as
 much code as possible without signals. We should be primarily be using plain
-old functions. A typical component will have rougly this API:
+old functions. A typical component will have roughly this API:
 
 ```haskell
 -- A model of our component
